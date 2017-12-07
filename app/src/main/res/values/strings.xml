@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Assessment Dev Java</string>
+    <string name="label_login">LOGIN</string>
+    <string name="label_cadastrar">CADASTRE-SE</string>
+</resources>
