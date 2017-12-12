@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1090795516344",
+    "firebase_url": "https://logindevjava.firebaseio.com",
+    "project_id": "logindevjava",
+    "storage_bucket": "logindevjava.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1090795516344:android:990b84afcbde82f5",
+        "android_client_info": {
+          "package_name": "br.com.soaresdeveloper.assessmentdevjava"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1090795516344-u7f6jnu6a9ppl6cao4mpm25f8i4bmdc3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCfFFCsxi2jwsdw9q8hAhet32PcQPwc5Ng"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1090795516344-u7f6jnu6a9ppl6cao4mpm25f8i4bmdc3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
