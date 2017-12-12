@@ -1,9 +1,4 @@
 <resources>
     <string name="app_name">Assessment Dev Java</string>
-    <string name="label_login">LOGIN</string>
-    <string name="label_cadastrar">CADASTRE-SE</string>
-    <string name="label_entrar">ENTRAR</string>
-    <string name="hint_email">Email</string>
-    <string name="hint_senha">Senha</string>
-    <string name="hint_consenha">Confirmar Senha</string>
+    <string name="lbl_sair">Sair</string>
 </resources>
